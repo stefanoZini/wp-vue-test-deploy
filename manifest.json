@@ -1,0 +1,24 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Ecommerce Guru",
+  "short_name": "ECGuru",
+  "scope": "/",
+  "display": "browser",
+  "start_url": "https://60f84418d8ef360007dbb3b9--xenodochial-khorana-674bfb.netlify.app/",
+  "background_color": "transparent",
+  "theme_color": "transparent",
+  "description": "Ecommerce guru",
+  "orientation": "any",
+  "prefer_related_applications": "false",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16"
+    }
+  ]
+}
