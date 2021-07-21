@@ -1,8 +1,7 @@
 <template>
   <footer>
-    Made by <a href="https://macarthur.me">Alex MacArthur</a>
-    //
-    See <a href="https://www.github.com/alexmacarthur/wp-vue">WP Vue on Github</a>.
+    Made by Stefano Zini
+ 
   </footer>
 </template>
 
